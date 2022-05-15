@@ -1,0 +1,54 @@
+{C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/JPEG_ENCODER/aa.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/JPEG_ENCODER/aa.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module aa
+
+Top level modules:
+	aa
+
+} {} {}} {C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/JPEG_ENCODER/dct.v} {0 {vlog -work work -stats=none {C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/JPEG_ENCODER/dct.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module dct
+** Error (suppressible): C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/JPEG_ENCODER/dct.v(33): (vlog-2388) 'q0' already declared in this scope (dct).
+
+** Error (suppressible): C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/JPEG_ENCODER/dct.v(34): (vlog-2388) 'q1' already declared in this scope (dct).
+
+** Error (suppressible): C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/JPEG_ENCODER/dct.v(35): (vlog-2388) 'q2' already declared in this scope (dct).
+
+** Error (suppressible): C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/JPEG_ENCODER/dct.v(36): (vlog-2388) 'q3' already declared in this scope (dct).
+
+** Error (suppressible): C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/JPEG_ENCODER/dct.v(37): (vlog-2388) 'q4' already declared in this scope (dct).
+
+** Error (suppressible): C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/JPEG_ENCODER/dct.v(38): (vlog-2388) 'q5' already declared in this scope (dct).
+
+** Error (suppressible): C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/JPEG_ENCODER/dct.v(39): (vlog-2388) 'q6' already declared in this scope (dct).
+
+** Error (suppressible): C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/JPEG_ENCODER/dct.v(40): (vlog-2388) 'q7' already declared in this scope (dct).
+
+** Error: C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/JPEG_ENCODER/dct.v(111): (vlog-2730) Undefined variable: 'index1'.
+
+** Error: C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/JPEG_ENCODER/dct.v(112): (vlog-2730) Undefined variable: 'index2'.
+
+** Error: C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/JPEG_ENCODER/dct.v(114): (vlog-2730) Undefined variable: 'enable'.
+
+** Error: C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/JPEG_ENCODER/dct.v(125): (vlog-2730) Undefined variable: 'index'.
+
+** Error: C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/JPEG_ENCODER/dct.v(152): (vlog-2730) Undefined variable: 'u0'.
+
+** Error: (vlog-13069) C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/JPEG_ENCODER/dct.v(176): near "EOF": syntax error, unexpected end of source code.
+
+
+} {20.0 21.0 22.0 23.0 24.0 25.0 26.0 27.0 28.0 29.0 30.0 31.0} {}} {C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/JPEG_ENCODER/flip_flop.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/JPEG_ENCODER/flip_flop.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module flip_flop
+
+Top level modules:
+	flip_flop
+
+} {} {}} {C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/JPEG_ENCODER/full_sub.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/JPEG_ENCODER/full_sub.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module full_sub
+
+Top level modules:
+	full_sub
+
+} {} {}}
